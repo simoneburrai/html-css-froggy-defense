@@ -10,11 +10,11 @@ Qui di seguito potete trovare informazioni più dettagliate riguardo il **flex-b
 
 L'obiettivo dell'esercizio di oggi consiste nel completare due giochi:
 
-1. ###[Flexbox Froggy](https://flexboxfroggy.com/)
+1. [Flexbox Froggy](https://flexboxfroggy.com/)
 
-![Model](https://www.giantbomb.com/a/uploads/original/87/878890/3318923-flexbox-froggy.png)
+![Model](https://www.espai.es/blog/wp-content/uploads/2022/04/flexbox-froggy.jpg)
 
-2. ###[Flexbox Defense](http://www.flexboxdefense.com/)
+2. [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ![Model](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ATiCDX9auT6ZhEusfkxBYnrS2r7Pak391g&s)
 
