@@ -11,7 +11,6 @@ Qui di seguito potete trovare informazioni più dettagliate riguardo il **flex-b
 L'obiettivo dell'esercizio di oggi consiste nel completare due giochi:
 
 1. [Flexbox Froggy](https://flexboxfroggy.com/)
-
 ![Model](https://www.espai.es/blog/wp-content/uploads/2022/04/flexbox-froggy.jpg)
 
 2. [Flexbox Defense](http://www.flexboxdefense.com/)
